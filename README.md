@@ -1,3 +1,9 @@
+41223133協同產品設計實習
+
+作業網站：https://mdecd2025.github.io/hw-41223133/
+
+倉儲網站：github.com/mdecd2025/hw-41223133
+
 # cmsimde_site
 
 利用 init_replit 指令安裝所需 Python 模組
