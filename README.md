@@ -2,7 +2,7 @@
 
 作業網站：https://mdecd2025.github.io/hw-41223133/
 
-倉儲網站：github.com/mdecd2025/hw-41223133
+倉儲網站：https://github.com/mdecd2025/hw-41223133
 
 # cmsimde_site
 
